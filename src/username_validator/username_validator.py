@@ -144,7 +144,7 @@ OTHER_SENSITIVE_NAMES = [
     'pricing',
     'privacy',
     'profile',
-    'register'
+    'register',
     'secure',
     'settings',
     'signin',
@@ -155,7 +155,7 @@ OTHER_SENSITIVE_NAMES = [
     'terms',
     'tos',
     'user',
-    'users'
+    'users',
     'weblog',
     'work',
 ]
